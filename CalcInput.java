@@ -9,7 +9,7 @@ import java.awt.event.WindowEvent;
 
 import javax.swing.*;
 
-//Finished By Ankit Joju on Monday May 21st, 2018 at 9:32AM.
+//Finished By Xxxxx Xxxx on Monday May 21st, 2018 at 9:32AM.
 
 public class CalcInput extends Frame implements ActionListener{
 	public static String displayValue = "0";
